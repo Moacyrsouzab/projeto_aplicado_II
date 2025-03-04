@@ -54,7 +54,7 @@ Total de dados: 2.500 linhas e 10 colunas.
 
 Objetivo Geral  
 
-Explorar dados demográficos e comportamentais dos assinantes da Netflix para gerar insights sobre comportamento do usuário, prever cancelamentos (churn) e identificar 
+• Explorar dados demográficos e comportamentais dos assinantes da Netflix para gerar insights sobre comportamento do usuário, prever cancelamentos (churn) e identificar 
 oportunidades de campanhas para aumentar a retenção e o engajamento. 
 
 Objetivos Específicos  

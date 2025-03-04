@@ -1,6 +1,6 @@
 
 
-Equipe:
+Equipe:  
 • Kaique Nascimento de Paula - RA: 24024831  
 • Moacyr Souza Barros - RA: 10441179  
 • Miguel Shiraishi de Almeida - RA: 10431805  

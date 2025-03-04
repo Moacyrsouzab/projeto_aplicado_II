@@ -1,1 +1,7 @@
-# projeto_aplicado_II
+# 
+
+Equipe:
+Moacyr Souza Barros
+Flávio Estevam Nogueira Andrade
+Kaique Nascimento de Paula
+Miguel Shiraishi

@@ -1,10 +1,10 @@
 
 
 Equipe:
-• Kaique Nascimento de Paula - RA: 24024831 
-• Moacyr Souza Barros - RA: 10441179 
-• Miguel Shiraishi de Almeida - RA: 10431805
-• Flávio Estevam Nogueira Andrade - RA: 10441572 
+• Kaique Nascimento de Paula - RA: 24024831  
+• Moacyr Souza Barros - RA: 10441179  
+• Miguel Shiraishi de Almeida - RA: 10431805  
+• Flávio Estevam Nogueira Andrade - RA: 10441572  
 
 Cronograma do Projeto
 1. Definição da Organização Escolhida 
@@ -50,13 +50,15 @@ análises de dados extensivas para personalizar recomendações de conteúdo e o
 
 Total de dados: 2.500 linhas e 10 colunas. 
 
-# 3. Objetivos e Metas
+# 3. Objetivos e Metas  
 
-Objetivo Geral 
+Objetivo Geral  
+
 Explorar dados demográficos e comportamentais dos assinantes da Netflix para gerar insights sobre comportamento do usuário, prever cancelamentos (churn) e identificar 
 oportunidades de campanhas para aumentar a retenção e o engajamento. 
 
-Objetivos Específicos 
+Objetivos Específicos  
+
 • Analisar o comportamento dos usuários com base no país, idade, gênero e dispositivo utilizado; 
 • Identificar possíveis cancelamentos e desenvolver estudos/propostas para minimizar o churn;
 • Propor estratégias de retenção e campanhas de marketing com base nos dados analisados.
